@@ -1,9 +1,5 @@
-
-def print_name
+def print_and_return_name
   puts "Guy Fieri"
-end
-print_name
-
-def return_name
   "Guy Fieri"
 end
+print_and_return_name
