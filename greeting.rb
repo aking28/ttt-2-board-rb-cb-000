@@ -3,3 +3,9 @@ def print_and_return_name
   "Guy Fieri"
 end
 print_and_return_name
+
+
+def puts_and_return_name
+  puts "Guy Fieri"
+end
+puts_and_return_name  
