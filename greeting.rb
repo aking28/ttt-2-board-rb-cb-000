@@ -1,7 +1,5 @@
-
-
-
-def puts_and_return_name
+def broken_print_and_return_name
+  "Guy Fieri"
   puts "Guy Fieri"
 end
-puts_and_return_name  
+broken_print_and_return_name
