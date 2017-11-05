@@ -10,4 +10,6 @@ puts "A group of flamingos is called a #{answer}."
 
 def print_name
   puts "Guy Fieri"
-end  
+end
+print_name
+  
